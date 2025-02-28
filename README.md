@@ -2,6 +2,14 @@
 
 A web application that mimics the user interface and core functionalities of Google Sheets, with a focus on mathematical and data quality functions, data entry, and key UI interactions.
 
+
+## PREVIEW
+
+![Screenshot 2025-02-28 203627](https://github.com/user-attachments/assets/43ae8921-c5ba-4a24-bd52-0f83a00e4674)
+![Screenshot 2025-02-28 203733](https://github.com/user-attachments/assets/1fd783fc-0e15-433e-84e6-d4ca5ae0b01d)
+![Screenshot 2025-02-28 203805](https://github.com/user-attachments/assets/a5803a45-32e9-436c-82a0-fd0c6823c07f)
+
+
 ## Features
 
 ### 1. Spreadsheet Interface
