@@ -81,7 +81,32 @@ interface CellStyles {
   backgroundColor: string;
 }
 ```
+## Getting Started
 
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ankitkanojiya07/Web-Application-Mimicking-Google-Sheets
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and navigate to `http://localhost:5173`
+   
 #### Cell Referencing System
 - Cells are referenced using a standard spreadsheet notation (e.g., "A1", "B2")
 - Column indices are converted to letters (0 -> A, 1 -> B, etc.)
